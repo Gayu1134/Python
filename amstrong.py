@@ -1,3 +1,4 @@
+#Amstrong number
 number = int(input("Enter the number : "))
 n1 = number
 len = 0
