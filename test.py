@@ -1,1 +1,1 @@
-print("Chain execution test")
+prnt("Chain execution test")
